@@ -1,0 +1,261 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1301" measuredH="1684" mockupW="1301" mockupH="1684">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="1292" h="1684" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="68" y="36" w="-1" h="-1" measuredW="323" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>B%F3ng%20%u0110%E1%20ONLINE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="68" y="79" w="1206" h="37" measuredW="507" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>1</selectedIndex>
+        <text>Trang%20Chu%2C%20Bong%20Da%20Anh%2C%20Trong%20Nuoc%2C%20Quoc%20Te%2C%20Gioi%20Thieu%2C%20Lien%20He</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="1097" y="123" w="177" h="346" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quang%20Cao</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="1097" y="469" w="177" h="320" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quang%20Cao</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="851" w="1023" h="324" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="82" y="866" w="309" h="199" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Title" x="415" y="866" w="-1" h="-1" measuredW="625" measuredH="23" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Liverpool%20mu%u1ED1n%20%u201Cgi%u1EA3i%20tho%E1t%u201D%20cho%20th%u1EE7%20m%F4n%20th%u1EA5t%20s%u1EE7ng%20c%u1EE7a%20Real%20Madrid</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="415" y="889" w="-1" h="-1" measuredW="59" measuredH="20" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>6%20gio%20truoc</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::SubTitle" x="415" y="918" w="-1" h="-1" measuredW="460" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Theo%20b%E1o%20ch%ED%20Anh%2C%20Liverpool%20%u0111ang%20l%EAn%20k%u1EBF%20ho%u1EA1ch%20chi%EAu%20m%u1ED9%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::SubTitle" x="415" y="945" w="-1" h="-1" measuredW="464" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Keylor%20Navas%2C%20th%u1EE7%20m%F4n%20%u0111ang%20b%u1ECB%20th%u1EA5t%20s%u1EE7ng%20t%u1EA1i%20Real%20Madrid%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::SubTitle" x="415" y="972" w="-1" h="-1" measuredW="447" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>18</size>
+        <text>trong%20k%u1EF3%20chuy%u1EC3n%20nh%u01B0%u1EE3ng%20m%F9a%20H%E8%20t%u1EDBi%20nh%u1EB1m%20thay%20th%u1EBF%20cho%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::SubTitle" x="415" y="1003" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Simon%20Mignolet</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="82" y="1080" w="-1" h="-1" measuredW="476" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0110i%u1EC3m%20tin%20chi%u1EC1u%2009/02%3A%20Harry%20Kane%20khi%u1EBFn%20Man%20United%20b%u1EBD%20m%u1EB7t%3B%20Messi%20c%F3%20th%EAm%20k%u1EF7%20l%u1EE5c</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="82" y="1109" w="-1" h="-1" measuredW="341" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Th%u1EAFng%20nh%u1ECDc%20Cagliari%2C%20AS%20Roma%20t%u1EA1m%20ch%u1EA5m%20d%u1EE9t%20kh%u1EE7ng%20ho%u1EA3ng</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="82" y="1137" w="-1" h="-1" measuredW="415" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%u01B0%u01A1ng%20m%u1EB7t%20Calcio%3A%20Carlos%20Tevez%20%u2013%20Serie%20A%20d%u01B0%u1EDBi%20g%F3t%20ch%E2n%20%u201CEl%20Apache%u201D</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="1202" w="1023" h="324" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="82" y="1217" w="309" h="199" measuredW="77" measuredH="79" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Title" x="411" y="1224" w="-1" h="-1" measuredW="625" measuredH="23" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Liverpool%20mu%u1ED1n%20%u201Cgi%u1EA3i%20tho%E1t%u201D%20cho%20th%u1EE7%20m%F4n%20th%u1EA5t%20s%u1EE7ng%20c%u1EE7a%20Real%20Madrid</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="415" y="1250" w="-1" h="-1" measuredW="59" measuredH="20" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>6%20gio%20truoc</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::SubTitle" x="406" y="1283" w="-1" h="-1" measuredW="460" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Theo%20b%E1o%20ch%ED%20Anh%2C%20Liverpool%20%u0111ang%20l%EAn%20k%u1EBF%20ho%u1EA1ch%20chi%EAu%20m%u1ED9%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::SubTitle" x="406" y="1306" w="-1" h="-1" measuredW="464" measuredH="21" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Keylor%20Navas%2C%20th%u1EE7%20m%F4n%20%u0111ang%20b%u1ECB%20th%u1EA5t%20s%u1EE7ng%20t%u1EA1i%20Real%20Madrid%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::SubTitle" x="406" y="1333" w="-1" h="-1" measuredW="447" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <size>18</size>
+        <text>trong%20k%u1EF3%20chuy%u1EC3n%20nh%u01B0%u1EE3ng%20m%F9a%20H%E8%20t%u1EDBi%20nh%u1EB1m%20thay%20th%u1EBF%20cho%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::SubTitle" x="406" y="1361" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Simon%20Mignolet</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Label" x="82" y="1431" w="-1" h="-1" measuredW="476" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0110i%u1EC3m%20tin%20chi%u1EC1u%2009/02%3A%20Harry%20Kane%20khi%u1EBFn%20Man%20United%20b%u1EBD%20m%u1EB7t%3B%20Messi%20c%F3%20th%EAm%20k%u1EF7%20l%u1EE5c</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="82" y="1459" w="-1" h="-1" measuredW="341" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Th%u1EAFng%20nh%u1ECDc%20Cagliari%2C%20AS%20Roma%20t%u1EA1m%20ch%u1EA5m%20d%u1EE9t%20kh%u1EE7ng%20ho%u1EA3ng</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Label" x="81" y="1490" w="-1" h="-1" measuredW="415" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%u01B0%u01A1ng%20m%u1EB7t%20Calcio%3A%20Carlos%20Tevez%20%u2013%20Serie%20A%20d%u01B0%u1EDBi%20g%F3t%20ch%E2n%20%u201CEl%20Apache%u201D</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextArea" x="68" y="1526" w="1233" h="123" measuredW="200" measuredH="140" zOrder="27" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::HRule" x="82" y="1559" w="1176" h="-1" measuredW="100" measuredH="10" zOrder="28" locked="false" isInGroup="-1"/>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="493" w="1023" h="324" measuredW="100" measuredH="70" zOrder="29" locked="false" isInGroup="-1"/>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Image" x="82" y="514" w="309" h="199" measuredW="77" measuredH="79" zOrder="30" locked="false" isInGroup="-1"/>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Title" x="423" y="514" w="-1" h="-1" measuredW="409" measuredH="23" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <size>20</size>
+        <text>PSG%20m%u1EDDi%20g%u1ECDi%2C%20Di%20Maria%20c%E2n%20nh%u1EAFc%20r%u1EDDi%20Man%20Utd</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="423" y="537" w="-1" h="-1" measuredW="59" measuredH="20" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>6%20gio%20truoc</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="423" y="572" w="-1" h="-1" measuredW="513" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>Theo%20nh%u1EEFng%20th%F4ng%20tin%20t%u1EEB%20trang%20givemesport%2C%20Angel%20di%20Maria%20%u0111%E3%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::SubTitle" x="423" y="603" w="-1" h="-1" measuredW="556" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>18</size>
+        <text>b%u1EAFt%20%u0111%u1EA7u%20xem%20x%E9t%20%FD%20t%u01B0%u1EDFng%20r%u1EDDi%20b%u1ECF%20Manchester%20United%20%u0111%u1EC3%20gia%20nh%u1EADp%20PSG.</text>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Label" x="82" y="728" w="-1" h="-1" measuredW="476" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0110i%u1EC3m%20tin%20chi%u1EC1u%2009/02%3A%20Harry%20Kane%20khi%u1EBFn%20Man%20United%20b%u1EBD%20m%u1EB7t%3B%20Messi%20c%F3%20th%EAm%20k%u1EF7%20l%u1EE5c</text>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Label" x="82" y="756" w="-1" h="-1" measuredW="477" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0110i%u1EC3m%20tin%20sang%2009/02%3A%20Harry%20Kane%20khi%u1EBFn%20Man%20United%20b%u1EBD%20m%u1EB7t%3B%20Messi%20c%F3%20th%EAm%20k%u1EF7%20l%u1EE5c</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Label" x="82" y="781" w="-1" h="-1" measuredW="415" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>G%u01B0%u01A1ng%20m%u1EB7t%20Calcio%3A%20Carlos%20Tevez%20%u2013%20Serie%20A%20d%u01B0%u1EDBi%20g%F3t%20ch%E2n%20%u201CEl%20Apache%u201D</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Button" x="68" y="1175" w="1023" h="27" measuredW="185" measuredH="27" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>%20%20%20%20%20%20%20Bong%20Da%20Quoc%20Te</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::Button" x="68" y="817" w="1023" h="27" measuredW="190" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>%20%20%20%20%20%20%20Bong%20Da%20Viet%20Nam</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Button" x="68" y="469" w="1023" h="27" measuredW="151" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <menuIcon>false</menuIcon>
+        <size>16</size>
+        <text>%20%20%20%20%20%20%20Bong%20Da%20Anh</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="116" w="689" h="353" measuredW="100" measuredH="70" zOrder="41" locked="false" isInGroup="-1"/>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Image" x="127" y="131" w="547" h="256" measuredW="77" measuredH="79" zOrder="42" locked="false" isInGroup="-1"/>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Canvas" x="757" y="116" w="334" h="353" measuredW="100" measuredH="70" zOrder="43" locked="false" isInGroup="-1"/>
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::SubTitle" x="127" y="402" w="-1" h="-1" measuredW="531" measuredH="27" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Messi%20%u0111e%20d%u1ECDa%20v%u1ECB%20tr%ED%20%22Vua%20ki%u1EBFn%20t%u1EA1o%22%20c%u1EE7a%20Fabregas</text>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::SubTitle" x="783" y="131" w="-1" h="-1" measuredW="116" measuredH="27" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <text>Tin%20n%u1ED5i%20b%u1EADt</text>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="772" y="173" w="-1" h="-1" measuredW="256" measuredH="21" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Link%20sopcast%20tr%u1EF1c%20ti%u1EBFp%20b%F3ng%20%u0111%E1%20%u0111%EAm%2009/02</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Label" x="774" y="350" w="-1" h="-1" measuredW="295" measuredH="21" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%u0110i%u1EC3m%20tin%20chi%u1EC1u%2009/02%3A%20Harry%20Kane%20khi%u1EBFn%20MU%20b%u1EBD%20m%u1EB7t</text>
+      </controlProperties>
+    </control>
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Label" x="774" y="387" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CR7%20l%E0%20Ng%u01B0%u1EDDi%20ngo%E0i%20h%E0nh%20tinh</text>
+      </controlProperties>
+    </control>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::Label" x="774" y="423" w="-1" h="-1" measuredW="313" measuredH="21" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Real%20Madrid%20t%EDnh%20gi%u0103ng%20b%u1EABy%20Ng%u01B0%u1EDDi%20Nh%u1EC7n%20th%E0nh%20London</text>
+      </controlProperties>
+    </control>
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::Label" x="774" y="314" w="-1" h="-1" measuredW="290" measuredH="21" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>B%u1EA2N%20TIN%20T%u1ED0I%202/3%3A%20D%u1EA5u%20ch%u1EA5m%20h%u1EBFt%20cho%20Mertesacker</text>
+      </controlProperties>
+    </control>
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::Label" x="774" y="278" w="-1" h="-1" measuredW="281" measuredH="21" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Roma%201-1%20Juventus%3A%20Tevez%20%u0111%u01B0a%20L%E3o%20b%E0%20ti%u1EBFn%20g%u1EA7n%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Label" x="774" y="242" w="-1" h="-1" measuredW="181" measuredH="21" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Di%20Maria%20l%EAn%20ti%u1EBFng%20v%u1EC1%20t%u01B0%u01A1ng%20lai</text>
+      </controlProperties>
+    </control>
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::Label" x="774" y="206" w="-1" h="-1" measuredW="199" measuredH="21" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Paul%20Scholes%20tr%EAn%20%u0111%u01B0%u1EDDng%20l%E0m%20HLV</text>
+      </controlProperties>
+    </control>
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="1097" y="818" w="177" h="118" measuredW="300" measuredH="200" zOrder="54" locked="false" isInGroup="-1"/>
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="1097" y="1012" w="177" h="118" measuredW="300" measuredH="200" zOrder="55" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

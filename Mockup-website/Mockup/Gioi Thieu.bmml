@@ -1,0 +1,54 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1331" measuredH="961" mockupW="1292" mockupH="961">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="39" y="0" w="1292" h="961" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="68" y="36" w="-1" h="-1" measuredW="323" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>B%F3ng%20%u0110%E1%20ONLINE</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="68" y="79" w="1206" h="37" measuredW="507" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>4</selectedIndex>
+        <text>Trang%20Chu%2C%20Bong%20Da%20Anh%2C%20Trong%20Nuoc%2C%20Quoc%20Te%2C%20Gioi%20Thieu%2C%20Lien%20He</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="1097" y="123" w="177" h="346" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quang%20Cao</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="1097" y="469" w="177" h="320" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Quang%20Cao</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::TextArea" x="69" y="798" w="1233" h="123" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::HRule" x="97" y="816" w="1176" h="-1" measuredW="100" measuredH="10" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::TextInput" x="68" y="123" w="1014" h="-1" measuredW="72" measuredH="27" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gioi%20Thieu</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Canvas" x="68" y="157" w="1014" h="130" measuredW="100" measuredH="70" zOrder="8" locked="false" isInGroup="-1"/>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="82" y="172" w="808" h="-1" measuredW="542" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-%20%u0110%E2y%20l%E0%20trang%20chuy%EAn%20%u0111%u1EC1%20v%u1EC1%20tin%20t%u1EE9c%20b%F3ng%20%u0111%E1%20qu%u1ED1c%20t%u1EBF%20v%E0%20trong%20n%u01B0%u1EDBc%2C%20%u0111%u01B0%u1EE3c%20ph%E1t%20tri%u1EC3n%20%u0111%u1EC3%20c%u1EADp%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Label" x="82" y="193" w="-1" h="-1" measuredW="547" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>nh%u1EADt%20tin%20t%u1EE9c%2C%20ph%E2n%20t%EDch%20b%ECnh%20lu%u1EADn%20c%E1c%20v%u1EA5n%20%u0111%u1EC1%20v%u1EC1%20b%F3ng%20%u0111%E1%20c%u0169ng%20nh%u01B0%20c%E1c%20m%F4n%20th%u1EC3%20thao%20kh%E1c.%20V%u1EDBi%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::Label" x="82" y="214" w="-1" h="-1" measuredW="336" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>tin%20th%u1EA7n%20l%E0%20th%F4ng%20tin%20c%u1EADp%20nh%u1EADt%20nhanh%2C%20ng%u1EAFn%20g%u1ECDn%2C%20ch%EDnh%20x%E1c.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Label" x="82" y="235" w="-1" h="-1" measuredW="486" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nh%u1EEFng%20th%F4ng%20tin%20trong%20webste%20l%E0%20nh%u1EEFng%20th%F4ng%20tin%20%u0111%u01B0%u1EE3c%20tr%EDch%20t%u1EEB%20c%E1c%20ngu%u1ED3n%20Intenet.</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
